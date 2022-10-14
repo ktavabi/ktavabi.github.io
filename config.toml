@@ -1,0 +1,44 @@
+baseURL = "http://localhost"
+languageCode = "en-us"
+theme = "awesome-identity"
+title = "Kambiz Tavabi"
+
+## Profile Configurations
+[params.profile]
+portrait = "portrait.jpeg"
+firstname = "Kambiz"
+lastname = "Tavabi"
+title = "Neuroscience Ph.D. / Data Scientist"
+bio = """A research scientist at the University of Washington, leading data science projects in neuroscience focusing on speech and language cognition.
+  Passionate about data science, psychology, and philosophy of mind with 13+ of post-graduate experience in managing biomedical data science projects.
+  I seek mid- to upper-level data scientist opportunities in data mining, engineering, and Machine Learning research roles in healthcare."""
+
+
+## Contacts Configurations
+[params.contacts]
+email = "email@kambiztavabi.com"
+github = "ktavabi"
+stackoverflow = "1634460"
+keybase = "ktavabi"
+medium = "@ktavabi"
+instagram = "ktavabi"
+# %TODO: googlescholar = "VO6NMiEAAAAJ\&hl"
+
+
+
+## Actions Configurations
+[[params.actions]]
+name = "Review My CV"
+url = "resume.pdf"
+#[[params.actions]]
+#name = "Ask Me Anything"
+#url = "https://github.com/ktavabi/ama"
+#[[params.actions]]
+#name = "Buy Me a Coffee"
+#url = "https://buymeacoff.ee/ktavabi"
+
+
+## Footer Configurations
+[params.footer]
+copyright = "© 2022 Kambiz Tavabi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+poweredBy = true
