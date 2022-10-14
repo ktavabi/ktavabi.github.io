@@ -5,9 +5,11 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "type": "pwa-brave",
+        "type": "chrome",
         "request": "launch",
         "name": "Launch Chrome against localhost",
+        "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
+        "userDataDir": true,
         "url": "http://localhost:1313",
         "webRoot": "${workspaceFolder}"
       }
