@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://ktavabi.github.io/"
 languageCode = "en-us"
 theme = "awesome-identity"
 title = "Kambiz Tavabi"
