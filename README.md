@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+I am here to make 🍳 omlettes.
 
 <!--
-**ktavabi/ktavabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ktavabi/ktavabi.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
