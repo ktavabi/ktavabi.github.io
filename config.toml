@@ -9,9 +9,7 @@ portrait = "portrait.jpeg"
 firstname = "Kambiz"
 lastname = "Tavabi"
 title = "Neuroscience Ph.D. / Data Scientist"
-bio = """A research scientist at the University of Washington, leading data science projects in neuroscience focusing on speech and language cognition.
-  Passionate about data science, psychology, and philosophy of mind with 13+ of post-graduate experience in managing biomedical data science projects.
-  I seek mid- to upper-level data scientist opportunities in data mining, engineering, and Machine Learning research roles in healthcare."""
+bio = """Research Science Engineer with 13+ years of postgraduate experience in biomedical and health data science projects. Expert in behavioral neuroscience, data science, and data engineering. My research focuses on how the human brain learns to acquire and process language. I am proficient in data engineering and analyzing various biomedical imaging technologies (MRI, MEG, EEG). As a trained cognitive psychologist, I work at the intersection of neuroscience and data science to help clinicians reliably diagnose language impairments in psychiatric disorders such as autism. I am a meticulous and passionate worker who seeks translational data science roles in public health, social policy, or healthcare sectors."""
 
 
 ## Contacts Configurations
