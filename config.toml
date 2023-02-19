@@ -27,7 +27,7 @@ instagram = "ktavabi"
 ## Actions Configurations
 [[params.actions]]
 name = "Review My CV"
-url = "resume.pdf"
+url = "static/resume.pdf"
 #[[params.actions]]
 #name = "Ask Me Anything"
 #url = "https://github.com/ktavabi/ama"
