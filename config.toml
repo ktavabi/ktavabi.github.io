@@ -9,7 +9,7 @@ portrait = "portrait.jpeg"
 firstname = "Kambiz"
 lastname = "Tavabi"
 title = "Neuroscience Ph.D. / Data Scientist"
-bio = """Research Science Engineer with 13+ years of postgraduate experience in biomedical and health data science projects. Expert in behavioral neuroscience, data science, and data engineering. My research focuses on how the human brain learns to acquire and process language. I am proficient in data engineering and analyzing various biomedical imaging technologies (MRI, MEG, EEG). As a trained cognitive psychologist, I work at the intersection of neuroscience and data science to help clinicians reliably diagnose language impairments in psychiatric disorders such as autism. I am a meticulous and passionate worker who seeks translational data science roles in public health, social policy, or healthcare sectors."""
+bio = """Research Scientist with over 13 years of experience leading end-to-end biomedical data science projects in neuroscience. Excellent reputation for problem-solving and meeting client demands. As a trained cognitive psychologist, my work is at the intersection of neuropsychology and data science to build diagnostic tools for identifying behavioral impairments in psychiatric disorders such as autism. Detail-oriented and highly organized worker with an analytical and growth mindset. Committed to achieving demanding research and development objectives according to tight schedules while producing high-quality data."""
 
 
 ## Contacts Configurations
@@ -27,7 +27,7 @@ instagram = "ktavabi"
 ## Actions Configurations
 [[params.actions]]
 name = "Review My CV"
-url = "resume.pdf"
+url = "static/resume.pdf"
 #[[params.actions]]
 #name = "Ask Me Anything"
 #url = "https://github.com/ktavabi/ama"
