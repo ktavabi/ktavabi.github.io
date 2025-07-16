@@ -1,0 +1,42 @@
+baseURL = "https://ktavabi.github.io/"
+languageCode = "en-us"
+theme = "awesome-identity"
+title = "Kambiz Tavabi"
+
+## Profile Configurations
+[params.profile]
+portrait = "portrait.jpeg"
+firstname = "Kambiz"
+lastname = "Tavabi"
+title = "Neuroscience Ph.D. / Data Scientist"
+bio = """Research Scientist with over 13 years of experience leading end-to-end biomedical data science projects in neuroscience. Excellent reputation for problem-solving and meeting client demands. As a trained cognitive psychologist, I work at the intersection of neuropsychology and data science to build diagnostic tools for identifying behavioral impairments in psychiatric disorders such as autism. I am a detail-oriented and highly organized worker with an analytical and growth mindset. I am committed to achieving demanding research and development objectives according to tight schedules while producing high-quality data."""
+
+
+## Contacts Configurations
+[params.contacts]
+email = "email@kambiztavabi.com"
+github = "ktavabi"
+stackoverflow = "1634460"
+keybase = "ktavabi"
+medium = "@ktavabi"
+instagram = "ktavabi"
+# %TODO: googlescholar = "VO6NMiEAAAAJ\&hl"
+
+
+
+## Actions Configurations
+[[params.actions]]
+name = "Review My CV"
+url = "resume.pdf"
+#[[params.actions]]
+#name = "Ask Me Anything"
+#url = "https://github.com/ktavabi/ama"
+#[[params.actions]]
+#name = "Buy Me a Coffee"
+#url = "https://buymeacoff.ee/ktavabi"
+
+
+## Footer Configurations
+[params.footer]
+copyright = "© 2022 Kambiz Tavabi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+poweredBy = true

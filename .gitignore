@@ -1,0 +1,140 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Hugo executable files
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Hugo temporary files
+/.hugo_build.lock
+.hugo_build.lock
+
+# IDE and Editor files
+*.code-workspace
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# next.js build output
+.next
+
+# nuxt.js build output
+.nuxt
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Hugo archetypes
+archetypes/
+
+# Hugo data
+data/
+
+# Hugo layouts (if you want to ignore custom layouts)
+# layouts/
+
+# Hugo content (if you want to ignore content)
+# content/
+
+# Hugo static (if you want to ignore static files)
+# static/
+
+# Hugo themes (if you want to ignore themes)
+# themes/
+
+# Hugo config (if you want to ignore config)
+# config.toml
+# config.yaml
+# config.yml
+
+# Hugo modules
+go.mod
+go.sum
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+*.tmp
+*.temp
