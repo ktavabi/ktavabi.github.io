@@ -1,6 +1,6 @@
 +++
 title = "Washington APCD Healthcare Claims & DOC Release Cohorts"
-date = "2023-07-01"
+date = "2025-07-01"
 +++
 
 Multi-year analysis linking statewide claims-style data to DOC release cohorts under strict access controls.

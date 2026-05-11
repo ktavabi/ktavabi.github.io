@@ -1,6 +1,7 @@
 +++
 title = "Spoken Word Recognition & Lexical Processing"
 date = "2007-06-01"
+private = true
 +++
 
 Spoken word recognition, lexical/semantic processing with Prof. Friedemann Pulvermuller; plasticity paradigms.

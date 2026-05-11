@@ -1,6 +1,7 @@
 +++
 title = "BIOS Enterprise BI, ETL & Reporting Automation"
 date = "2023-08-01"
+private = true
 +++
 
 Program-scale delivery of dashboards, recurring reports, and data pipelines for executive, legislative, and operational stakeholders.

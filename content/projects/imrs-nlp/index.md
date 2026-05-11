@@ -1,6 +1,6 @@
 +++
 title = "IMRS: Production Multi-Label NLP for Incident Narratives"
-date = "2023-05-01"
+date = "2024-09-01"
 +++
 
 End-to-end NLP system replacing manual labeling of correctional incident free text with automated multi-label prediction across facilities.

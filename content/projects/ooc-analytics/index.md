@@ -1,6 +1,6 @@
 +++
 title = "Out-of-County Violator Processing Analytics"
-date = "2023-06-01"
+date = "2025-09-01"
 +++
 
 Six-year operational intelligence study on inter-county violator flows, data quality, and cooperation across Washington counties.

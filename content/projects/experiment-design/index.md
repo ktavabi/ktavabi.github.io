@@ -1,6 +1,7 @@
 +++
 title = "Program Experiment Design & Causal-Style Evaluation"
 date = "2023-09-01"
+private = true
 +++
 
 A/B and quasi-experimental frameworks applied to large administrative datasets for defensible program decisions.
