@@ -1,0 +1,28 @@
+baseURL = "https://ktavabi.github.io/"
+title = "Kambiz Tavabi"
+theme = "hugo-theme-console"
+defaultContentLanguage = "en"
+
+[languages.en]
+  locale = "en-US"
+
+[params]
+  description = "Neuroscience Ph.D. & Data Scientist"
+  titleCutting = false
+  animateStyle = "animated zoomIn fast"
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "projects/"
+  url = "projects/"
+
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
+
+  [[params.navlinks]]
+  name = "cv"
+  url = "cv/"

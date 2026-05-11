@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<div class="home-content">
+  {{ .Content }}
+</div>
+
+{{ with .Site.GetPage "/projects" }}
+<h1>Projects</h1>
+<div class="posts-list">
+    {{ range first 5 (sort .Pages "Date" "desc") }}
+        <div class="post">
+            <p>
+                <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ with .Site.GetPage "/photos" }}
+<h1>Latest photos</h1>
+<div class="image-grid">
+    {{ range first 3 (sort .Pages "Date" "desc") }}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "600x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ end }}
